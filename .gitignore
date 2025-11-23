@@ -1,0 +1,6 @@
+.env
+*.env
+*.api_data
+*.data_base
+*.db_config
+*.api_password
